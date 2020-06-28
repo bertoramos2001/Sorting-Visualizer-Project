@@ -1,0 +1,23 @@
+.body {
+    display:flex;
+    flex-direction: column;
+    min-width: 900px;
+}
+.array-container {
+    position: relative;
+    padding: 5%;
+    display:flex;
+    justify-content: space-evenly;
+}
+
+.array-bar {
+    width: 5px;
+    background-color: rgb(114, 166, 214);
+    display: inline-block;
+    margin: 0 1px;
+    align-self: flex-end;
+}
+
+.button-section {
+    align-self: center;
+}
