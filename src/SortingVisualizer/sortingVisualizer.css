@@ -12,7 +12,7 @@
 
 .array-bar {
     width: 5px;
-    background-color: rgb(114, 166, 214);
+    background-color: palegreen;
     display: inline-block;
     margin: 0 1px;
     align-self: flex-end;
